@@ -46,8 +46,8 @@ jobs:
       if: steps.determine_initialization_status.outputs.exitcode == '1'
       uses: actions/checkout@v2
       with:
-        repository: my-repo-base/my-profile
-        path: './my-profile'
+        repository: sig-bsi-grundschutz/rh-profile-grundschutz-plus-plus
+        path: 'rh-profile-grundschutz-plus-plus'
         token: ${{ secrets.GIT_TOKEN }}
         fetch-depth: 0
     - name: Update downstream
