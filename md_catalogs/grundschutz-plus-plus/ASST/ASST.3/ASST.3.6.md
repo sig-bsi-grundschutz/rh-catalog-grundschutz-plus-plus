@@ -1,0 +1,9 @@
+# ASST.3.6 - \[Regelungen zum Gebrauch\] Verifikation
+
+## Control Statement
+
+Informationen und Assets für Informationen KANN die Korrektheit anhand anderer Informationsquellen testen.
+
+## Control guidance
+
+Wenn die Korrektheit bestimmter Informationen von hohen Bedeutung ist, hilft eine Verifikation aus zweiter Quelle dabei, fundierte und belastbare Entscheidungen in sicherheitsrelevanten Situationen treffen zu können. Durch Verifikation wird das Risiko verringert, dass Fehlinformationen in Geschäftsprozessen oder dem Sicherheitsmanagement weiterverarbeitet werden und sich Fehler so fortsetzen oder Vorfälle übersehen werden. Sie kann insbesondere dazu beitragen, Fehlalarme zu erkennen, Täuschungsversuche (z.B. durch gefälschte Logdaten) zu identifizieren oder die Wirksamkeit von Gegenmaßnahmen zu bewerten. Die Anforderung stärkt somit die Integrität und Qualität der sicherheitsbezogenen Lagebewertung. Beispiele für Ereignisse können sicherheitsrelevante Systemmeldungen, Alarme aus Intrusion Detection Systemen (IDS), Hinweise auf Datenabflüsse oder ungewöhnliches Nutzerventhalten sein. Informationsquellen können externe Dienstleister, Zeugen, Sicherungskopien oder Sensoren in der physischen Sicherheit sein. Die Verifikation kann sich in solchen Fällen z.B. auf die Gegenprüfung eines IDS-Alarms durch Logdaten anderer Systeme oder durch Replizierbarkeit des Ereignisses in einer Testumgebung beziehen. In der Praxis kann eine Verifikation unter anderem durch Korrelation mehrerer unabhängiger Datenquellen erfolgen. Auch das Einführen von Plausibilitätsprüfungen, standardisierten Analyseverfahren oder temporären Reproduktionsversuchen kann hilfreich sein. Eine strukturierte Dokumentation der Informationsquellen und ihrer typischen Aussagekraft kann ebenfalls zur Umsetzung beitragen.

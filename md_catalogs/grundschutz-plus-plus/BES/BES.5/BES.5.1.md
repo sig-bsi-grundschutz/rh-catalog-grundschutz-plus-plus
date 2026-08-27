@@ -1,0 +1,9 @@
+# BES.5.1 - \[Auswahl von Produkten und Dienstleistungen - Zusammenarbeit\] Kompetenzen
+
+## Control Statement
+
+Beschaffungsmanagement für Dienstleistungen SOLLTE Kompetenzen in Informationssicherheit, die von den Mitarbeitern des Lieferanten verlangt werden, vereinbaren.
+
+## Control guidance
+
+Dient dem Ziel, Risiken durch unzureichend geschultes Personal zu minimieren. Ohne solche Vorgaben könnte es dazu kommen, dass Dienstleister vertrauliche Daten versehentlich preisgeben, schwache Passwörter verwenden oder Phishing-Angriffe nicht erkennen. Durch die Vereinbarung von Mindestkompetenzen kann erreicht werden, dass Dienstleister Sicherheitsrichtlinien verstehen, Bedrohungen frühzeitig identifizieren und im Einklang mit den Schutzinteressen der Institution handeln. Im Kontext bedeutet Kompetenzen in Informationssicherheit, dass Mitarbeiter des Lieferanten über Wissen, Fähigkeiten und Verhalten verfügen, die erforderlich sind, um mit vertraulichen Informationen und IT-Systemen angemessen sicher umzugehen. Dies kann grundlegendes Verständnis für sichere Passwörter und mobile Geräte umfassen, aber auch Kenntnisse zu branchenspezifischen Sicherheitsverfahren oder zum Umgang mit sensiblen Kundendaten. Eine sinnvolle Umsetzung kann zum Beispiel beinhalten, dass die Institution in den Verträgen mit Lieferanten konkrete Mindestanforderungen an Schulungen und Zertifikate definiert, etwa: (1) Einführungsschulungen zu IT-Sicherheitsgrundlagen, (2) regelmäßige Auffrischungen zu Themen wie Social Engineering oder sichere Datennutzung, (3) Nachweise über spezielle Fachkenntnisse, wenn besonders sensible Daten verarbeitet werden. Praktisch kann eine Institution durch standardisierte Schulungsprogramme, die Überprüfung von Zertifikaten (z. B. ISO/IEC- oder BSI-bezogene Qualifikationen) oder durch kurze Wissens-Checks im Rahmen der Dienstleister-Onboarding-Prozesse sicherstellen, dass vereinbarte Kompetenzen tatsächlich vorhanden sind.

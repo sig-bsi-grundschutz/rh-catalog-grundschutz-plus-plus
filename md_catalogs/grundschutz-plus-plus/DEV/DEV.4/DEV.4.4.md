@@ -1,0 +1,9 @@
+# DEV.4.4 - \[Softwareentwicklung - Code\] Integrität externer Software
+
+## Control Statement
+
+Entwicklung für Anwendungen SOLLTE die Integrität externer Softwareartefakte und -Schnittstellen vor dem Release testen.
+
+## Control guidance
+
+Gemeint ist damit sowohl die technische Unversehrtheit (z. B. durch kryptografische Prüfungen wie Hash- oder Signaturvalidierung) als auch die inhaltliche Zuverlässigkeit (z. B. keine eingeschleusten Schadfunktionen oder versteckte Abhängigkeiten). Der Sinn und Zweck dieser Anforderung liegt darin, die Risiken durch unsichere oder manipulierte Fremdkomponenten zu reduzieren. So könnte ein Angreifer Schadcode in eine weit verbreitete Bibliothek einschleusen, die dann unbemerkt in der Anwendung landet, oder eine Abhängigkeit könnte im Hintergrund auf nicht mehr gepflegte Versionen verweisen. Eine wirksame Integritätsprüfung kann verhindern, dass fehlerhafte oder kompromittierte Bausteine in produktive Anwendungen gelangen und kann damit auch die Abhängigkeit von nicht vertrauenswürdigen Quellen abmildern. Zur Umsetzung können (1) Hashwerte oder digitale Signaturen von Bibliotheken mit den Referenzwerten der Hersteller verglichen werden, (2) der Bezug externer Pakete über offizielle, verifizierte Repositories, statt über inoffizielle Quellen stattfinden, und (3) in der Build-Pipeline eine automatisierte Integritätsprüfung eingerichtet sein, die verdächtige oder unvollständige Bibliotheken blockieret. Ergänzend kann eine institutionseigene Allowlist gepflegt werden, die geprüfte Versionen von Bibliotheken enthält, sodass Entwickler nicht unkontrolliert beliebige Abhängigkeiten einbinden. Ein praktischer Tipp kann sein, die Prüfmechanismen möglichst früh im Entwicklungsprozess zu automatisieren, um spätere manuelle Nacharbeiten oder Verzögerungen vor einem Release zu vermeiden.

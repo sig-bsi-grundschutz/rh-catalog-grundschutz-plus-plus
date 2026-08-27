@@ -1,0 +1,9 @@
+# BES.7.4.11 - \[Abnahme\] Dokumentierte Mandantentrennung
+
+## Control Statement
+
+Beschaffungsmanagement für Outsourcing KANN die beim Dienstleister implementierten Maßnahmen zur Mandantentrennung nach Vertragsschluss dokumentieren.
+
+## Control guidance
+
+Die Dokumentation der beim Dienstleister implementierten Maßnahmen zur Mandantentrennung trägt dazu bei, die Risiken unzureichender Abgrenzung zwischen verschiedenen Kundeninstanzen transparent zu bewerten und im Bedarfsfall nachzuweisen. Ohne eine solche Transparenz könnte es zu Datenabflüssen oder unbefugtem Zugriff durch andere Mandanten kommen, etwa wenn virtuelle Maschinen auf derselben Hardware betrieben werden und Schwachstellen in der Virtualisierung ausgenutzt werden könnten. Eine dokumentierte Trennungskontrolle kann nachweisen, dass Speicher, Rechenleistung oder Netzwerksegmente isoliert sind und dadurch die Vertraulichkeit und Integrität der eigenen Daten erhalten bleibt. Im Kontext bedeutet Mandantentrennung die technische und/oder organisatorische Gewährleistung, dass Daten, Prozesse und Ressourcen verschiedener Kunden innerhalb einer geteilten Infrastruktur so voneinander abgegrenzt sind, dass unbeabsichtigte oder absichtliche Zugriffe ausgeschlossen werden können. Damit ist nicht nur die physische, sondern auch die logische Separation gemeint. Die Umsetzung kann sinnvoll erfolgen, indem eine Institution nach Vertragsschluss gezielt vom Dienstleister beschriebene Schutzmechanismen abfragt und dokumentiert, beispielsweise Isolierungsverfahren auf Hypervisor-Ebene, Verschlüsselung pro Mandant oder die Vergabe getrennter Schlüsselmaterialien. Praktisch kann es hilfreich sein, in Service-Reports nachvollziehbare Testnachweise zu verlangen, etwa Ergebnisse von Penetrationstests, die speziell auf Mandantengrenzen zielen.

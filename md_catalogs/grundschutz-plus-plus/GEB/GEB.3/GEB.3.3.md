@@ -1,0 +1,9 @@
+# GEB.3.3 - \[Physischer Zutritt\] Authentifizierung vor Zutritt
+
+## Control Statement
+
+Gebäudemanagement für Standorte SOLLTE Zutritte im Einklang mit den Festlegungen des Identitäts- und Berechtigungsmanagements authentifizieren.
+
+## Control guidance
+
+Der Zweck der Authentifizierung von Zutritten liegt in der grundlegenden Absicherung physischer Zugänge gegen unbefugte Nutzung. Dies kann verhindern, dass Unbefugte Zugang zu sensiblen Bereichen oder Informationen erhalten. Ohne angemessene Zutrittskontrolle könnte beispielsweise ein nicht autorisierter Besucher in einen Serverraum gelangen und dort Hardware manipulieren, Datenträger entwenden oder Netzwerkkabel umstecken. Ebenso könnte ein ehemaliger Mitarbeiter ohne wirksame Authentifizierung weiterhin auf Systeme zugreifen und vertrauliche Daten entwenden oder geschäftskritische Informationen kompromittieren. Bei der Umsetzung kann ein mehrstufiger Ansatz verfolgt werden, der verschiedene Authentifizierungsfaktoren kombiniert: Wissen (z.B. PIN-Codes, Passwörter), Besitz (z.B. Chipkarten, Tokens, Schlüssel) und biometrische Merkmale (z.B. Fingerabdruck, Gesichtserkennung). Die Stärke der Authentifizierung kann dabei an die Schutzbedürftigkeit des zu schützenden Bereichs angepasst werden – für hochsensible Bereiche können Zwei- oder Mehr-Faktor-Authentifizierungen implementiert werden. Als ergänzende Maßnahme kann ein Monitoring der Zutrittsereignisse eingerichtet werden, das ungewöhnliche Zugriffsversuche erkennt und meldet. Zudem kann die regelmäßige Überprüfung und Aktualisierung der Zutrittsberechtigungen dazu beitragen, dass nur aktuell berechtigte Personen Zugang erhalten. Die Formulierung "im Einklang mit den Festlegungen des Identitäts- und Berechtigungsmanagements" bedeutet, dass die Authentifizierung so erfolgt, wie in der Praktik IDM festgelegt. Hierzu gehört insbesondere die Verwendung aktueller kryptographischer Verfahren, wie sie im Thema Kryptographie zu finden ist.

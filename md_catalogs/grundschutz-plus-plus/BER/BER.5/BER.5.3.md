@@ -1,0 +1,9 @@
+# BER.5.3 - \[Umgang mit Authentisierungsmitteln\] Vorgehensweise zum Widerruf
+
+## Control Statement
+
+Berechtigung SOLLTE eine Vorgehensweise zum Widerruf von Authentifizierungsmitteln verankern.
+
+## Control guidance
+
+Der Widerruf meint hier die gezielte Ungültigsetzung, Sperrung, Deaktivierung oder Rücknahme solcher Mittel, sodass sie nicht mehr zur Anmeldung, Signatur, Schnittstellennutzung oder sonstigen Authentisierung verwendet werden können; er unterscheidet sich von einer bloßen Änderung der Berechtigung, weil nicht nur der Zugriffsumfang, sondern das Authentifizierungsmittel selbst unwirksam gemacht wird; umfasst sein können auch Sperrung, Deaktivierung, Löschung, Ersetzung, Zurücksetzung, Entzug aus Vertrauenslisten oder das Ungültigmachen noch aktiver Sitzungen, soweit dies für das jeweilige Verfahren technisch einschlägig ist. Eine Vorgehensweise ist dabei als beschriebener, wiederholbarer Ablauf zu verstehen, der Auslöser, Zuständigkeiten, Prüfschritte, technische Durchführung, Dokumentation und erforderliche Folgemaßnahmen so konkretisiert, dass der Widerruf auch bei Zeitdruck, außerhalb regulärer Arbeitszeiten oder bei unvollständiger Informationslage verlässlich angestoßen werden kann. Sinn und Zweck der Vorschrift ist, die Nutzbarkeit kompromittierter, verlorener, fehlgeleiteter oder missbräuchlich verwendeter Authentifizierungsmittel zeitnah zu beenden und dadurch unbefugte Zugriffe, fortgesetzte Sitzungen oder die Ausweitung eines Vorfalls zu begrenzen. Ohne geregelten Widerruf könnte ein verlorener Hardware-Token weiter für Remote-Zugriffe genutzt werden, ein offengelegtes Passwort könnte nach einem Phishing-Vorfall erneut eingesetzt werden, oder ein kompromittiertes Zertifikat könnte weiterhin Dienste, Geräte oder Benutzeridentitäten legitimieren; eine klare Vorgehensweise kann die Reaktionszeit verkürzen, Fehlentscheidungen reduzieren und die Nachvollziehbarkeit der Maßnahme verbessern.

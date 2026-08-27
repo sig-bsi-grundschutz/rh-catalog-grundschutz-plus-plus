@@ -1,0 +1,9 @@
+# BER.7.16.4 - \[Schlüsselmanagement\] Revocation
+
+## Control Statement
+
+Berechtigung SOLLTE den Schlüssel anhand der Vorgaben für die Schlüsselbeglaubigung bei Revocation einer Beglaubigung testen.
+
+## Control guidance
+
+Die Revocation einer Beglaubigung (engl. revocation of attestation) ist die nachträgliche Ungültigerklärung einer solchen Bestätigung, beispielsweise durch Sperrung eines Zertifikats mittels Certificate Revocation List (CRL) oder Online Certificate Status Protocol (OCSP). Das Testen des Schlüssels anhand der Vorgaben für die Schlüsselbeglaubigung bedeutet hier, dass geprüft wird, ob die festgelegten Vorgaben für die Revocation erfüllt sind. Damit wird sichergestellt, dass der Widerruf einer Beglaubigung nur bei Vorliegen der Voraussetzungen angestoßen wird und dann technisch und organisatorisch korrekt umgesetzt und im Systemverhalten nachvollziehbar berücksichtigt wird, etwa durch sofortige Ungültigkeitserklärung oder Sperrung des betreffenden Schlüssels. Der Zweck dieser Vorgabe liegt darin, unzulässige oder verfrühte Revocations ebenso zu vermeiden wie verspätete oder unvollständige Umsetzungen, die zu Sicherheitslücken führen könnten. Wird die Prüfung der Revocation-Vorgaben fehlerhaft oder unvollständig durchgeführt, könnte ein gültiger Schlüssel fälschlich gesperrt werden oder ein tatsächlich kompromittierter Schlüssel weiter im Einsatz bleiben. Eine konsequente Umsetzung kann dagegen gewährleisten, dass der Widerruf von Beglaubigungen nur im vorgesehenen Rahmen erfolgt, die Integrität des Vertrauensmodells erhalten bleibt und alle abhängigen Systeme den neuen Status korrekt übernehmen. Praktisch kann dies durch automatisierte Regelprüfungen in Zertifikatsverwaltungsdiensten, durch Ereignisprotokollierung in Key Management Services (KMS) oder durch Hardware-Sicherheitsmodule (HSM) umgesetzt werden, die Revocation-Bedingungen strikt validieren, bevor Änderungen am Schlüsselstatus ausgeführt werden.

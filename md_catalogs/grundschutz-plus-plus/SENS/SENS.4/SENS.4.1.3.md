@@ -1,0 +1,9 @@
+# SENS.4.1.3 - \[Authentisierung\] Wahl von Passwörtern
+
+## Control Statement
+
+Sensibilisierung für Nutzende SOLLTE zur Wahl ausreichend komplexer Passwörter sensibilisieren.
+
+## Control guidance
+
+Ein Passwort ist ein geheimes Zeichenfolgenkürzel, das als Authentisierungsmerkmal dient und typischerweise aus Buchstaben, Ziffern und Sonderzeichen bestehen kann. Komplexität bedeutet hierbei, dass die Passwortstruktur hinreichend schwer zu Erraten oder durch automatisierte Verfahren zu berechnen ist, etwa durch eine gewisse Länge und die Verwendung unterschiedlicher Zeichenarten. Die Komplexität ist ausreichend, wenn sie den festgelegten Qualitätskriterien für Passwörter entspricht. Einfache oder mehrfach genutzte Passwörter könnten durch erraten, Wörterbuchangriffe oder Datenleaks kompromittiert werden und so zu unautorisierten Zugriffen, Datenverlusten oder Identitätsdiebstahl führen. Die bewusste Wahl starker und einzigartiger Passwörter kann hingegen die Widerstandsfähigkeit gegen Angriffe deutlich erhöhen und so einen wesentlichen Beitrag zum Schutz von Daten und IT-Systemen leisten. Zur Umsetzung kann eine Institution verschiedene Maßnahmen einsetzen: (1) praxisnahe Schulungen und E-Learnings, die anschaulich erläutern, warum Passwörter wie „Sommer2023“ leicht angreifbar sein könnten und wie kreative Passphrasen gebildet werden können, (2) begleitende Tipps in Anmeldemasken, die Hinweise zur Passwortgestaltung geben, ohne konkrete Vorgaben zu erzwingen, (3) die Empfehlung von Passwortmanagern, die den Umgang mit langen und individuellen Kennwörtern erleichtern, (4) prozessuale Begleitung durch Erinnerungen oder kurze Awareness-Kampagnen, etwa durch Plakate, Newsletter oder interaktive Quizformate. Für mehr Details siehe auch Thema Passwortgebrauch in der Praktik Berechtigung.

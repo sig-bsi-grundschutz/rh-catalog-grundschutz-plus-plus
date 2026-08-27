@@ -1,0 +1,9 @@
+# GEB.3.4 - \[Physischer Zutritt\] Berechtigungsmarkierung
+
+## Control Statement
+
+Gebäudemanagement für Nutzende von Standorten KANN zum Tragen von gut sichtbaren Berechtigungsmarkierungen innerhalb des Sicherheitsperimeters anweisen.
+
+## Control guidance
+
+Unter Berechtigungsmarkierungen sind physische Kennzeichen wie Ausweise, Badges, Namensschilder oder Kartenhalter zu verstehen, die eine eindeutige Zuordnung einer Person zu ihrer Zugangsberechtigung ermöglichen. Sie können zudem farblich, mit Fotos oder Barcodes gestaltet sein, um unterschiedliche Zutrittsrechte auf einfache Weise erkennbar zu machen. Der Sinn einer solchen Vorgabe liegt darin, dass unbefugte Personen leichter auffallen und damit potenzielle Gefährdungen frühzeitig erkannt werden. So könnte ein Vorfall entstehen, wenn sich Unbefugte unbemerkt Zutritt zu kritischen Bereichen verschaffen, indem sie sich in einer Gruppe mit berechtigten Personen bewegen. Dagegen kann eine sichtbare Berechtigungsmarkierung helfen, Anomalien rasch zu erkennen und eine unauffällige, aber effektive Zugangskontrolle im Alltag zu unterstützen. Dies gilt sowohl für Mitarbeitende als auch für Besuchende. Für die Umsetzung kann eine Institution beispielsweise darauf achten, dass Markierungen gut sichtbar an Kleidung oder einem Schlüsselband getragen werden können. Sie kann auch unterschiedliche Farbkennungen nutzen, um klar zwischen Besuchenden, Dienstleistern und Mitarbeitenden zu unterscheiden. Für Besuche kann ein einfaches Verfahren eingeführt werden, mit dem Besuchende beim Betreten des Gebäudes ein temporäres Ausweisdokument erhalten, das bei Verlassen wieder zurückzugeben ist. Um die Akzeptanz zu erhöhen, kann das Gebäudemanagement praktikable Trageoptionen wie Clips, Lanyards oder magnetische Halterungen bereitstellen, die den Alltag nicht behindern.

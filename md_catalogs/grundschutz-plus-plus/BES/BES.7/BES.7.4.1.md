@@ -1,0 +1,9 @@
+# BES.7.4.1 - \[Abnahme\] Beschreibung der Sicherheitsarchitektur
+
+## Control Statement
+
+Beschaffungsmanagement für IT-Produkte SOLLTE eine Beschreibung der Sicherheitsarchitektur dokumentieren.
+
+## Control guidance
+
+Die technische Sicherheitsarchitektur bezeichnet in diesem Kontext die strukturierte Darstellung der sicherheitsrelevanten Komponenten und Mechanismen eines IT-Produkts. Dazu gehören z. B. die eingesetzten kryptografischen Verfahren, die Segmentierung von Netzwerken, Schnittstellen zu anderen Systemen, Rollen- und Berechtigungskonzepte sowie Schutzmechanismen gegen Schadsoftware oder Manipulation. Sie bildet somit eine nachvollziehbare Übersicht, wie die Sicherheit im Produkt technisch verankert ist und wie diese in die bestehende IT-Landschaft integriert werden kann. Die Dokumentation kann verhindern, dass eine Institution Systeme übernimmt, deren Schutzmechanismen unklar oder unzureichend sind. Ohne eine solche Transparenz könnte es passieren, dass kritische Schwachstellen verborgen bleiben oder Sicherheitsmechanismen aufgrund mangelnden Verständnisses nicht korrekt konfiguriert werden. Eine sinnvolle Umsetzung kann beispielsweise so erfolgen: (1) Ein Anbieter kann verpflichtet werden, vor Abnahme ein Architekturdiagramm mit hervorgehobenen Sicherheitskomponenten bereitzustellen. (2) Die Institution kann bei Pilotinstallationen Checklisten verwenden, um die dokumentierten Sicherheitsmaßnahmen mit der realisierten Konfiguration abzugleichen. (3) Ergänzend kann ein standardisiertes Template genutzt werden, das Mindestangaben wie eingesetzte Protokolle, Verschlüsselungsmechanismen, Rollenmodelle und Logging-Kapazitäten abfragt, sodass einheitliche und vergleichbare Unterlagen entstehen. Auch ein Abgleich mit bewährten Referenzarchitekturen kann helfen, die Vollständigkeit und Plausibilität der Angaben zu prüfen.

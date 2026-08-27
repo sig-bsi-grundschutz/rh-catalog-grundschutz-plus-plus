@@ -1,0 +1,9 @@
+# REA.2.6.5 - \[Reaktion\] Eskalation
+
+## Control Statement
+
+Sicherheitsvorfallsbehandlung SOLLTE eine Eskalationsleiter verankern.
+
+## Control guidance
+
+Eine Eskalationsleiter (engl. escalation matrix oder escalation path) bezeichnet in diesem Kontext eine festgelegte Reihenfolge von Melde- und Entscheidungsstufen, die im Falle eines Sicherheitsvorfalls eingehalten wird, um eine zeitgerechte und angemessene Reaktion sicherzustellen. Sie definiert, welche Rollen oder Funktionen bei bestimmten Schweregraden eines Vorfalls informiert, einbezogen oder zur Entscheidung befugt sind. Der Begriff ist hier prozessual zu verstehen, also nicht als hierarchische Personalstruktur, sondern als abgestufter Kommunikations- und Entscheidungsmechanismus innerhalb des Sicherheitsvorfallsprozesses. Der Zweck einer solchen Eskalationsleiter liegt darin, dass sicherheitsrelevante Ereignisse nicht auf operativer Ebene „steckenbleiben“, sondern in ihrer Kritikalität und potenziellen Auswirkung auf höhere Entscheidungsebenen eskaliert werden können. Dadurch kann verhindert werden, dass etwa ein anhaltender Systemausfall, ein möglicher Datenabfluss oder ein Angriff auf kritische Systeme unbemerkt bleibt oder verspätet adressiert wird. Eine wirksam verankerte Eskalationsleiter kann somit sicherstellen, dass die Reaktionszeit kurz, die Zuständigkeiten eindeutig und die Kommunikation nachvollziehbar bleiben. Hier empfiehlt es sich die Anforderung im Zusammenhang mit Notfallplänen, Krisenmanagement und Business Continuity Management zu betrachten – siehe auch Praktik Notfallplanung. Beispiele für Eskalationsstufen: (1) Ereignis, (2) sicherheitsrelevantes Ereignis, (3) sicherheitskritisches Ereignis, (4) Sicherheitsvorfall, (5) Notfall (siehe Notfallplanung), (6) Krise. Die Einstufung erfolgt entsprechend der Definition, die jede Institution für sich festlegt.

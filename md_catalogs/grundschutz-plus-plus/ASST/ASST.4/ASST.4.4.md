@@ -1,0 +1,9 @@
+# ASST.4.4 - \[Regelungen zum Transfer\] Nachweis des Zugangs
+
+## Control Statement
+
+Informationen und Assets für Daten KANN einen Nachweis des Zugangs protokollieren.
+
+## Control guidance
+
+Ein Zugangsnachweis stellt sicher, dass bestimmte Nachrichten ihren Empfänger tatsächlich erreicht haben und dieser Zugang im Streitfall nachvollziehbar belegt werden kann. Dies ist insbesondere in rechtlich relevanten Kontexten oder bei Revisionen von Bedeutung – etwa wenn Fristen, Genehmigungen oder vertrauliche Informationen übermittelt werden. Kriterien können sich an der Nachvollziehbarkeit der Integrität der Informationen oder ihrer Rechtswirkung orientieren, z.B. wenn sie einen Vertragsabschluss oder die Bekanntgabe eines Verwaltungsaktes, auslösen. Beispiele hierfür sind arbeitsrechtlich relevante Dokumente wie Abmahnungen oder Kündigungen, Sicherheitsanweisungen, Änderungen an internen Richtlinien, Zugangsdaten zu sicherheitsrelevanten Systemen oder auch technische Anordnungen mit verbindlichem Charakter. Die Kriterien können zusammen mit anderen Kriterien dokumentiert sein, beispielsweise im Rahmen eines Informationssicherheitskonzepts oder Kommunikationsleitfadens. Die Umsetzung dieser Anforderung kann durch verschiedene technische und organisatorische Maßnahmen erfolgen. Dazu gehören u. a. die Nutzung von E-Mail-Systemen mit Empfangsbestätigung, das Verwenden von Systemprotokollen oder speziellen Portalen mit Zugriffsnachweis. Wichtig ist dabei, dass der Nachweis manipulationssicher gespeichert und nachvollziehbar archiviert wird – bis zum Ablauf einer definierten Aufbewahrungsfrist, z. B. drei oder fünf Jahre, je nach rechtlicher oder organisatorischer Vorgabe. Sinnvoll ist es hierbei nicht nur die Tatsache des Zugangs zu einem bestimmten Zeitpunkt sondern auch für den Nachweis relevante Inhalte zu dokumentieren, z.B. Titel, sowie Versand- und Zieladressen der Nachricht. Sie kann je nach Medium auch den Inhalt der Nachricht enthalten.

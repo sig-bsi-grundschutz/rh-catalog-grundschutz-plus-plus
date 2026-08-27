@@ -1,0 +1,9 @@
+# KONF.10.1 - \[Konfiguration von Anwendungen\] Grundkonfiguration für Anwendungen
+
+## Control Statement
+
+Konfiguration für Anwendungen SOLLTE eine Grundkonfiguration dokumentieren.
+
+## Control guidance
+
+Eine Grundkonfiguration (engl. baseline configuration) bezeichnet in diesem Kontext einen dokumentierten Ausgangszustand einer Anwendung, der sowohl funktionale Anforderungen als auch sicherheitsrelevante Einstellungen berücksichtigt. Sie umfasst unter anderem Parameter wie Benutzerrechte, Logging-Einstellungen, Schnittstellenaktivierungen oder Verschlüsselungsoptionen und bildet damit die Referenz, auf die spätere Anpassungen zurückgeführt oder überprüft werden können. Fehlt eine nachvollziehbare Grundkonfiguration, könnte es bei Updates, Migrationen oder im Incident-Fall zu schwer erkennbaren Abweichungen kommen, die unerwünschte Sicherheitslücken hinterlassen. Eine klare Dokumentation kann dagegen die Nachvollziehbarkeit erhöhen, unerwünschte Änderungen sichtbar machen und den sicheren Betrieb der Anwendung unterstützen. Zur praktischen Umsetzung kann die Institution eine dokumentierte Konfigurationsvorlage entwickeln, die sowohl Herstellerempfehlungen als auch anerkannte Empfehlungen des BSI oder aus Benchmarks wie die des Center for Internet Security (CIS) berücksichtigt. Die Sicherheit von Anwendungen ist in besonderem Maße kontextbezogen: So könnten z.B. über E-Mail oder Messenger hoch vertrauliche Daten ausgetauscht werden oder auch öffentliche Informationen. Daher ist hier eine Vertiefung der Risikoanalyse empfehlenswert, die sich an der Verwendung der Anwendungen in Geschäftsprozessen orientiert. Dabei besteht ein enger Bezug zu Compliance-Anforderungen, zum Beispiel an finanzielle Transaktionen oder den Datenschutz, je nachdem welche Datenverarbeitungen mit der Anwendung vorgenommen werden.

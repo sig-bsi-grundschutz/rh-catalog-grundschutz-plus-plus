@@ -1,0 +1,9 @@
+# BER.7.16.2 - \[Schlüsselmanagement\] Beglaubigung
+
+## Control Statement
+
+Berechtigung SOLLTE den Schlüssel anhand der Vorgaben für die Schlüsselbeglaubigung bei Beantragung einer Beglaubigung testen.
+
+## Control guidance
+
+Schlüsselbeglaubigung (engl. key certification) ist der kryptographische Nachweis, dass ein kryptographischer Schlüssel echt, unverändert und einer berechtigten Identität eindeutig zugeordnet ist. Der Schlüsseltest vor der Beglaubigung dient dazu, sicherzustellen, dass der einzureichende Schlüssel die festgelegten technischen und organisatorischen Vorgaben für die Genehmigung der Beglaubigung erfüllt – etwa hinsichtlich Schlüssellänge, Algorithmuskompatibilität oder Integrität der Schlüsseldaten. Solche Prüfungen können die korrekte Formatierung, die Funktionsfähigkeit innerhalb der vorgesehenen Kryptosysteme sowie den Abgleich mit vertrauenswürdigen Referenzen umfassen. Ziel ist die Gewährleistung, dass keine fehlerhaften, kompromittierten oder absichtlich manipulierten Schlüssel in eine Vertrauenskette eingebracht werden. Diese Vorgabe kann das Risiko reduzieren, dass fehlerhafte oder bösartig erzeugte Schlüssel zu einer Täuschung über die Identität oder zu unbemerkten Datenmanipulationen führen könnte. Ebenso kann sie verhindern, dass ein unzureichend geprüfter Schlüssel später als gültig angesehen wird, obwohl er kompromittiert ist. Eine konsequente Umsetzung kann die Integrität kryptographischer Infrastrukturen stärken und die Vertrauenswürdigkeit digitaler Signaturen, Authentifizierungen und Verschlüsselungsprozesse sichern. In der Praxis kann dies etwa durch automatisierte Validierungsroutinen in einer Public-Key-Infrastruktur (PKI), durch den Einsatz spezialisierter HSM-Testwerkzeuge oder durch manuelle Prüfung anhand festgelegter Zertifizierungsrichtlinien erfolgen.

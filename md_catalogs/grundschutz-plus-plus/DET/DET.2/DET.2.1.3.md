@@ -1,0 +1,9 @@
+# DET.2.1.3 - \[Meldung von Ereignissen\] Rückmeldungen
+
+## Control Statement
+
+Detektion SOLLTE ein Verfahren für Rückmeldungen verankern.
+
+## Control guidance
+
+Rückmeldungen an Personen, die potenzielle Vorfälle gemeldet haben, sind hilfreich, da sie zum besseren Verständnis beitragen, worauf bei künftigen Meldungen zu achten ist und wie die Meldenden zur Bearbeitung des Vorfalls beitragen können. Ohne Rückmeldung könnte Unsicherheit entstehen, ob ein Vorfall überhaupt aufgenommen oder ernst genommen wurde, was zu Frustration oder einer sinkenden Bereitschaft zur Meldung künftiger Ereignisse führen könnte. Eine zeitnahe und angemessene Rückmeldung kann dagegen die Nutzenden in ihrem sicherheitsbewussten Verhalten bestärken, die Relevanz ihrer Meldung verdeutlichen und Missverständnisse vermeiden. So kann beispielsweise eine Rückmeldung nach einem gemeldeten Phishing-Versuch klarstellen, ob es sich um einen bekannten Angriff handelte oder ob zusätzliche Maßnahmen wie das Zurücksetzen eines Passworts empfohlen werden. Ebenso kann eine Rückmeldung nach einem gemeldeten Systemausfall erläutern, ob dieser sicherheitsrelevant war oder eine rein technische Störung vorlag. Ein Rückmeldeverfahren kann in diesem Kontext als ein strukturierter Ablauf definiert werden, über den die meldende Person nach Eingang ihrer Meldung eine Information über den Status, die Relevanz und – falls sinnvoll – empfohlene Folgeschritte erhält. Ein automatisiertes Ticketsystem kann beispielsweise sofortige Eingangsbestätigungen generieren und Statusänderungen kommunizieren. Ebenso kann eine abgestufte Rückmeldepflicht sinnvoll sein, bei der kritische Vorfälle eine priorisierte persönliche Rückmeldung durch Fachpersonal erhalten, während unkritische Meldungen standardisierte Mitteilungen bekommen. Technische Hilfsmittel wie Mail-Vorlagen, interne Chatbots oder Self-Service-Portale können die Effizienz erhöhen

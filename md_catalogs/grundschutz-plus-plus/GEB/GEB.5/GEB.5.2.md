@@ -1,0 +1,9 @@
+# GEB.5.2 - \[Gemeinsame Arbeitsbereiche\] Schutz gegen Manipulation
+
+## Control Statement
+
+Gebäudemanagement für IT-Systeme KANN Manipulationsschutzvorkehrungen installieren.
+
+## Control guidance
+
+Manipulationsschutzvorkehrungen sind physische oder technische Schutzmaßnahmen („tamper protection measures“), die darauf ausgelegt sind, unbefugte Eingriffe, Veränderungen oder Beschädigungen an IT-Systemen oder deren Infrastruktur frühzeitig zu verhindern oder zumindest erkennbar zu machen. Der Begriff „gemeinsame Arbeitsbereiche“ („shared workspaces“) umfasst Räumlichkeiten, in denen mehrere Personen, Teams oder Abteilungen gleichzeitig arbeiten, wodurch sich naturgemäß ein erhöhtes Risiko unkontrollierter Zugriffe auf technische Einrichtungen ergibt. Der Zweck dieser Anforderung liegt darin, die Integrität und Verfügbarkeit der eingesetzten Systeme zu wahren und Manipulationen vorzubeugen, die durch unbeaufsichtigte physische Zugriffe oder verdeckte Eingriffe erfolgen könnten. Ein ungeschütztes Gerät in einem frei zugänglichen Raum könnte beispielsweise durch das unbemerkte Einstecken manipulierter USB-Geräte oder das Entfernen von Netzwerkkabeln kompromittiert werden, während ein gezielter Eingriff in eine Serversteckdose zu Systemausfällen führen könnte. Eine Manipulationsschutzvorkehrung kann hier den Nachweis eines Eingriffs ermöglichen oder diesen bereits im Ansatz verhindern. Beispielsweise kann sinnvoll sein: (1) die Verwendung manipulationssicherer Gehäuse oder Gehäusesiegel, (2) der Einsatz von abschließbaren IT-Racks oder gesicherten Anschlussfeldern, (3) die Integration physischer Sensoren, die bei Gehäuseöffnung Alarmmeldungen erzeugen, oder (4) die Kennzeichnung und regelmäßige Sichtprüfung von Geräten auf Manipulationsspuren. Auch der gezielte Einbau von IT-Komponenten in erhöhten, kameragesicherten oder besonders einsehbaren Bereichen kann eine praktikable Schutzwirkung entfalten.
