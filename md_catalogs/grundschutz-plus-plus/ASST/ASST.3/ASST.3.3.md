@@ -1,0 +1,9 @@
+# ASST.3.3 - \[Regelungen zum Gebrauch\] Kennzeichnung
+
+## Control Statement
+
+Informationen und Assets SOLLTE die Kennzeichnung von Informationen verankern.
+
+## Control guidance
+
+Kennzeichnungen helfen dabei sicherzustellen, dass vertrauliche, personenbezogene oder besonders kritische Daten im gesamten Lebenszyklus angemessen behandelt werden – von der Erstellung über die Verarbeitung bis hin zur Archivierung oder Löschung. Hierzu gehört sowohl die Kennzeichnung physikalischer Systeme oder Speichermedien als auch die virtuelle Kennzeichnung, z.B. durch Metadaten oder die Kopfzeile eines Dokumentes. Eine klare Kennzeichnung kann dazu beitragen, unbeabsichtigte Offenlegung, unsachgemäße Weitergabe oder unsichere Verarbeitung zu vermeiden, die Sensibilisierung für den Umgang mit verschiedenen Informationsarten fördern und rechtlichen oder regulatorischen Anforderungen (z. B. DSGVO, Geheimschutz) Rechnung tragen. Beispiele sind Informationen, die einer bestimmten Schutzbedarfsklasse (z. B. „vertraulich“, „intern“) zugeordnet sind. Auch personenbezogene Daten, Forschungsergebnisse, Finanzinformationen, Sicherheitskonzepte oder technische Spezifikationen können einer Kennzeichnungspflicht unterliegen. Die Art der Kennzeichnung kann visuell erfolgen, etwa durch Wasserzeichen, farbige Markierungen, Aufkleber, sowie Kopf-/Fußzeilen oder Metadaten in Dateien. Wichtig ist, dass die Kennzeichnung verständlich, konsistent und leicht erkennbar ist, um ihre Schutzwirkung zu entfalten. Zur Umsetzung ist es nicht erforderlich, dass alle Daten, Systeme oder Speichermedien gekennzeichnet sind sondern nur solche, deren Risikoprofil eine solche Kennzeichnung erforderlich macht - hier ist insbesondere die Vertraulichkeit oder Verfügbarkeit relevant. Dokumentvorlagen, automatisierte Klassifizierungsfunktionen in gängigen Office-Programmen oder Richtlinien in einem DMS können helfen die Einhaltung zu gewährleisten.

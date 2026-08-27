@@ -1,0 +1,9 @@
+# GEB.3.2 - \[Physischer Zutritt\] Anmelde- und Empfangsbereiche
+
+## Control Statement
+
+Gebäudemanagement für Standorte SOLLTE Anmelde- und Empfangsbereiche installieren.
+
+## Control guidance
+
+Die Einrichtung definierter Anmelde- und Empfangsbereiche dient der Kontrolle des physischen Zugangs zum Standort. Diese Bereiche können als erste Verteidigungslinie fungieren, indem sie einen klaren Trennpunkt zwischen öffentlichen und geschützten Zonen etablieren. Durch die strukturierte Implementierung solcher Bereiche können unbefugte Zutritte vermieden werden, die andernfalls zu Sicherheitsverletzungen führen könnten. Ein fehlendes oder unzureichendes Empfangsmanagement könnte beispielsweise dazu führen, dass nicht autorisierte Personen unkontrolliert Zugang zu sensiblen Bereichen erhalten, vertrauliche Dokumente einsehen, Firmengeheimnisse entwenden oder sogar physische Sabotageakte durchführen. Bei der Umsetzung können verschiedene Ansätze verfolgt werden, die je nach Institution und sonstigen angewendeten Sicherheitsanforderungen variieren. Der Anmeldebereich kann mit einem digitalen Besuchermanagementsystem ausgestattet werden, welches die Authentifizierung und Registrierung von Besuchern erleichtert und eine lückenlose Dokumentation ermöglicht. Ergänzend hierzu kann die räumliche Gestaltung durch klare Beschilderung, bauliche Trennung mittels Schranken oder Drehkreuzen sowie die strategische Positionierung des Empfangsbereichs optimiert werden. Zudem kann die Schulung des Empfangspersonals in Sicherheitsprotokollen und die Einführung von Besucherausweisen mit temporären Zugriffsrechten die Effektivität dieser Sicherheitsmaßnahme verstärken. Die Integration mit anderen Sicherheitssystemen wie Videoüberwachung oder elektronischen Zutrittskontrollsystemen kann ebenfalls in Betracht gezogen werden, um ein umfassendes Sicherheitskonzept zu gewährleisten.

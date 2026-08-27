@@ -1,0 +1,9 @@
+# BES.6.6 - \[Auswahl von Produkten und Dienstleistungen - Kündigung\] Rückgewähr von Assets
+
+## Control Statement
+
+Beschaffungsmanagement für Dienstleistungen SOLLTE die Rückgewähr von Assets für den Fall einer Kündigung vereinbaren.
+
+## Control guidance
+
+Rückgewähr bedeutet hier, dass sämtliche von der Institution bereitgestellte Werte – wie etwa IT-Systeme, Datenträger oder Papierkopien – bei Beendigung des Vertragsverhältnisses an die Institution zurückgegeben werden. Der Zweck liegt darin, unkontrollierten Weitergebrauch oder Missbrauch von Informationen und Ressourcen zu verhindern. So könnte etwa ein externer Dienstleister nach einer Kündigung weiterhin Zugriff auf sensible Daten behalten oder unbeabsichtigt alte Backup-Medien in seinem Besitz behalten, was zu Datenabflüssen oder unautorisierten Offenlegungen führen könnte. Eine klare Regelung kann dagegen sicherstellen, dass sämtliche Ressourcen nachvollziehbar wieder unter die alleinige Kontrolle der Institution gelangen und Vertraulichkeit sowie Integrität gewahrt bleiben. Für die Umsetzung kann es hilfreich sein, die Rückgabepflicht vertraglich zu konkretisieren und präzise Abläufe zu definieren. So kann die Institution (1) Inventarlisten führen, in denen alle übergebenen physischen Geräte, Datenträger oder Zutrittsmedien eindeutig aufgeführt werden, (2) Checklisten für die geordnete Rückführung bei Vertragsende einsetzen und (3) eine Rückgabequittung oder Übergabebestätigung durch den Dienstleister einfordern, die den ordnungsgemäßen Erhalt dokumentiert. Ergänzend kann die Institution Rückgabefristen und Verantwortlichkeiten im Vertrag festlegen sowie technische Maßnahmen wie die Sperrung von verlorenen oder nicht zurückgegebenen Zutrittskarten einplanen. Auch kann eine Abnahmeprüfung der zurückgegebenen Assets durch die Institution erfolgen, um sicherzustellen, dass diese vollständig und funktionsfähig übergeben wurden.

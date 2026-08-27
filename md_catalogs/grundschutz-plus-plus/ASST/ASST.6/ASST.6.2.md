@@ -1,0 +1,9 @@
+# ASST.6.2 - \[Rücknahme von Assets\] Rückkehr abhandengekommener Assets
+
+## Control Statement
+
+Informationen und Assets SOLLTE eine Vorgehensweise bei Rückkehr von abhandengekommenen Assets verankern.
+
+## Control guidance
+
+"Abhandengekommene Assets" bezeichnen Informationswerte, die ungewollt oder ungeplant außerhalb der direkten Kontrolle der Institution geraten sind - beispielsweise durch Verlust, Diebstahl, vergessene Mitnahme oder andere unbeabsichtigte Ereignisse. Eine "Vorgehensweise bei Rückkehr" meint einen strukturierten Prozess zur systematischen Wiederaufnahme und sicherheitstechnischen Bewertung solcher Assets nach ihrer Wiederbeschaffung oder ihrem Wiederauffinden. Diese Anforderung zielt auf die Risikominimierung bei der Wiederintegration potenziell kompromittierter Assets ab, da während der unkontrollierten Abwesenheit Manipulationen, unautorisierten Zugriffe oder Datenabflüsse aufgetreten sein könnten. Ohne strukturierte Rückkehrprozesse kann die unkontrollierte Wiederverwendung zurückgekehrter Assets zu Sicherheitslücken, Malware-Infektionen oder Datenschutzverletzungen führen. Umsetzungen können bei der Asset-Rückkehr (1) eine vollständige Identitätsprüfung anhand eindeutiger Kennzeichnungen wie Seriennummern oder Asset-Tags, (2) eine technische Integritätsprüfung durch Malware-Scans, Firmware-Vergleiche und Hardwareanalysen sowie (3) eine Datenintegrität-Bewertung mittels kryptografischer Prüfsummen oder forensischer Analysen umfassen. Als Alternative zur tiefergehenden Analyse von Systemen und Daten bietet sich auch die Löschung oder Entsorgung an. Prozessual kann die Einrichtung einer zentralen Asset-Return-Stelle mit definierten Eskalationswegen bei Auffälligkeiten, die Dokumentation aller Rückkehrfälle in einem Asset-Management-System und die Implementierung von Quarantäne-Verfahren für verdächtige Assets erfolgen.

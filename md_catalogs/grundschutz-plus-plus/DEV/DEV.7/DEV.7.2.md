@@ -1,0 +1,9 @@
+# DEV.7.2 - \[Bereitstellung und Betrieb\] Zertifikatsmonitoring
+
+## Control Statement
+
+Entwicklung für Anwendungen SOLLTE die Ausstellung neuer Zertifikate für die von der Anwendung verwendeten Domains überwachen.
+
+## Control guidance
+
+Neue Zertifikate sind in diesem Kontext digitale Zertifikate, insbesondere TLS-/Serverzertifikate nach X.509, die zu einer von der Anwendung genutzten Domain oder Subdomain ausgestellt werden könnten und deren öffentliche Existenz regelmäßig über Certificate-Transparency-Protokolle, Zertifikatsregister oder vergleichbare Quellen erkennbar ist. Von der Anwendung verwendete Domains sind dabei die DNS-Namen, über die die Anwendung selbst, ihre Schnittstellen, Weiterleitungen, Mandantenbereiche oder technische Begleitdienste erreichbar sind, etwa Web-Frontends, API-Endpunkte, CDN- oder Load-Balancer-Namen; fachlich wird häufig von application domains, hostnames, FQDNs oder DNS names gesprochen. Die Vorschrift zielt darauf ab, ungewöhnliche oder unberechtigte Zertifikatsausstellungen frühzeitig erkennbar zu machen, weil eine solche Ausstellung auf Fehlkonfigurationen, kompromittierte DNS-Kontrolle, Missbrauch einer Validierungsmethode oder Vorbereitungen für Phishing- und Man-in-the-Middle-Szenarien hinweisen könnte. Eine entsprechende Beobachtung kann die Zeit bis zur Erkennung verkürzen und ermöglichen, betroffene Domains, Zertifizierungsstellen, DNS-Einträge oder Validierungswege gezielt zu prüfen, bevor Nutzende oder technische Clients einer täuschend echt wirkenden Gegenstelle vertrauen. Hierzu ist es sinnvoll Abfragen öffentlicher Certificate-Transparency-Logs für definierte FQDNs und Wildcards, Alarmierungen bei neuen Zertifikaten außerhalb erwarteter Aussteller oder Namensmuster, sowie regelmäßige Abgleiche einer gepflegten Domainliste mit neu beobachteten Zertifikatseinträgen zu verwenden.

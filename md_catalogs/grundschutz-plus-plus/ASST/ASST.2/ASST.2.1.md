@@ -1,0 +1,9 @@
+# ASST.2.1 - \[Inventarisierung\] Inventar der Informationen
+
+## Control Statement
+
+Informationen und Assets SOLLTE ein Inventar der Informationen und damit verbundener Assets dokumentieren.
+
+## Control guidance
+
+Um die Informationssicherheit zu schützen ist es erforderlich, die zu schützenden Werte systematisch zu erfassen und ihre Verwendung über den gesamten Lebenszyklus nachzuhalten. Sinnvoll ist es hierbei, den Detaillierungsgrad des Inventars angepasst an Schutzbedarf und Risikoprofil des Informationsverbundes zu wählen. Das Inventar kann eine Übersicht der für Geschäftsprozesse relevanten Kategorien von schützenswerten Informationen, z.B. für Kunden Vor- und Nachname, Adresse, IBAN, Telefonnummer, Kundenkennwort als Grundlage haben. Es muss sich allerdings nicht um eine einzige Liste von Informationen und Assets handeln. Um eine leichtere, automatische Pflege des Inventars zu ermöglichen ist es vielmehr sinnvoll, eine Reihe dynamischer Inventare oder Datenbestände möglichst nahe an der Quelle der Informationen zu verwenden, z.B. eine Verzeichnisdatenbank für Zugangskonten und Systeme, eine Anwendung zum Assetmanagement für physische Assets, sowie Dateisysteme oder Datenbanken für einzelne Dateien und Daten. Falls ein datenschutzrechtliches Verarbeitungsverzeichnis für die Erfassung von personenbezogenen Daten besteht, kann es ebenfalls in das Inventar einbezogen werden. Für physische Dokumente kann ein Aktenbestandsverzeichnis eingesetzt werden. Zur Erfassung von Netzen siehe Praktik Architektur. Zur Erfassung von Identitäten, Zugangskonten und Berechtigungen siehe Praktik Berechtigung. Für kurzlebige Informationen, z.B. virtuelle Maschinen, nur on-demand automatisch eingerichtet und wieder gelöscht werden oder händische Notizen, die nicht systematisch verarbeitet werden, ist keine Inventur erforderlich. Für Details zum IT-Assetmanagement siehe ISO/IEC 19770-1.

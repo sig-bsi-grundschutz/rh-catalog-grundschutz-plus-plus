@@ -1,0 +1,9 @@
+# GEB.4.4 - \[Sicherheitsbereiche\] Vereinzelungsanlage
+
+## Control Statement
+
+Gebäudemanagement für Standorte KANN Vereinzelungsanlagen an Zugangspunkten installieren.
+
+## Control guidance
+
+Eine Vereinzelungsanlage ist eine technische Einrichtung, die den gleichzeitigen Zutritt mehrerer Personen verhindert und so den Zugang zu besonders sensiblen Bereichen kontrolliert. Typische Beispiele sind Drehkreuze, Personenschleusen oder Sicherheitsschleusen mit Gewichtssensoren. Der Sinn dieser Maßnahme liegt darin, unbefugtes Betreten durch sogenanntes „Tailgating“ (eine Person folgt unberechtigt einer berechtigten Person) oder durch Einschleusen mehrerer Personen mit einem Zugangsausweis zu verhindern. Ohne solche Einrichtungen könnte es passieren, dass fremde Personen unerkannt in Serverräume oder Entwicklungsbereiche gelangen. Mit einer Vereinzelungsanlage kann hingegen zuverlässig sichergestellt werden, dass nur eine eindeutig identifizierte Person Zutritt erhält. Für die Umsetzung kann eine Institution mehrere Möglichkeiten nutzen: (1) Drehkreuze oder Sensorschleusen können an Hauptzugängen zu Bereichen mit kritischen Informationen eingesetzt werden, wobei sie mit Zutrittskontrollsystemen wie Chipkarten- oder Biometrie-Lesern kombiniert werden können. (2) Eine Zwei-Türen-Schleuse kann eingerichtet werden, die erst die zweite Tür freigibt, wenn die erste korrekt geschlossen ist und die Person authentifiziert wurde. (3) Sensorische Zusatzkontrollen wie Gewichtserkennung oder Volumendetektion können dabei helfen, dass keine zweite Person unerkannt mit hindurchgeht. Zudem kann die Wirksamkeit erhöht werden, wenn diese Systeme mit klaren Nutzungsregeln, wie Schulungen zum richtigen Durchschreiten und Hinweisschildern, ergänzt werden. Auch ein regelmäßiger Funktionstest der Anlagen kann helfen, Manipulation oder Fehlfunktionen frühzeitig zu erkennen.

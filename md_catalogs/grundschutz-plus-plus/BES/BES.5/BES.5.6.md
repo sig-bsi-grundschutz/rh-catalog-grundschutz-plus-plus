@@ -1,0 +1,9 @@
+# BES.5.6 - \[Auswahl von Produkten und Dienstleistungen - Zusammenarbeit\] Vergabe von Unteraufträgen
+
+## Control Statement
+
+Beschaffungsmanagement für Einkäufe SOLLTE Regelungen für die Vergabe von Unteraufträgen vereinbaren.
+
+## Control guidance
+
+Unter einem „Unterauftrag“ versteht man in diesem Kontext die vollständige oder teilweise Weitergabe vertraglich geschuldeter Leistungen an Dritte, z.B. einem Subunternehmer (Subcontractor). Relevant ist, dass die Institution nicht nur mit dem direkten Vertragspartner in einer vertraglichen Beziehung steht, sondern durch Unteraufträge auch indirekt Abhängigkeiten und Risiken entstehen könnten. Ohne klare Vereinbarungen könnte es dazu kommen, dass Unterauftragnehmer geringere Sicherheitsstandards einhalten, vertrauliche Informationen unzureichend schützen oder den vereinbarten Leistungsumfang nicht vollständig erfüllen. Beispielsweise könnte ein IT-Dienstleister einen Teil der Softwareentwicklung an ein externes Team in einem Land mit niedrigeren Datenschutzstandards auslagern, was zu Datenabfluss, Urheberrechtsverletzungen oder unkontrollierten Zugriffswegen führt. Auch Lieferkettenmanipulationen, etwa durch den Austausch von Hardware-Komponenten gegen kompromittierte Bauteile, können so unbemerkt ihren Weg in kritische Systeme finden. Umgesetzt werden kann die Anforderung beispielsweise dadurch, dass (1) die Institution in Verträgen festhält, ob und in welchem Rahmen Unteraufträge zulässig sind. Eine weitere praxisnahe Maßnahme kann sein, (2) Subunternehmer nur nach vorheriger schriftlicher Zustimmung der Institution zuzulassen und dabei (3) bestimmte Kategorien wie kritische IT-Dienstleistungen oder Datenverarbeitung ausdrücklich zu kennzeichnen. Technisch kann vertraglich vereinbart werden, dass Subunternehmer mindestens gleichwertige Sicherheitsstandards nachweislich erfüllen und dies regelmäßig auditiert werden kann.

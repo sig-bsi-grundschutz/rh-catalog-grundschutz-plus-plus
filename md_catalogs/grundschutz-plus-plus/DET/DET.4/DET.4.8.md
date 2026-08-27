@@ -1,0 +1,9 @@
+# DET.4.8 - \[Überwachung von Aktivitäten\] Ausstellung neuer HTTPS-Zertifikate
+
+## Control Statement
+
+Detektion für Webserver KANN die rechtzeitige Ausstellung neuer HTTPS-Zertifikate für Hostsysteme, die im Internet erreichbar sind, überwachen.
+
+## Control guidance
+
+„Rechtzeitige Ausstellung neuer HTTPS-Zertifikate“ meint hier, dass überwacht wird, ob vor Ablauf eines bestehenden TLS-/HTTPS-Zertifikats ein neues, gültiges und zur jeweiligen Webserver-Identität passendes Zertifikat aktiviert wird (certificate expiry monitoring, certificate renewal). „HTTPS-Zertifikate“ sind hier X.509-Zertifikate für TLS-gesicherte Webverbindungen, die insbesondere Servernamen, Gültigkeitszeitraum, ausstellende Zertifizierungsstelle und kryptografische Bindung an einen Schlüssel enthalten. „Server, die im Internet erreichbar sind“ bezeichnet Webserver mit öffentlich erreichbarer Adresse oder öffentlich auflösbarem Namen, etwa Webportale, APIs, Kundenportale oder Administrationsoberflächen, sofern sie aus dem Internet angesprochen werden können. Die Vorschrift zielt darauf ab, ablaufende oder nicht rechtzeitig erneuerte Zertifikate frühzeitig sichtbar zu machen: Ein versäumter Austausch könnte zu Browserwarnungen, Dienstunterbrechungen, fehlgeschlagenen API-Verbindungen, Vertrauensverlust bei Nutzenden oder improvisierten Notfallmaßnahmen führen. Eine entsprechende Detektion kann die Verfügbarkeit und Vertrauenswürdigkeit öffentlich erreichbarer Webdienste unterstützen und kann zugleich Hinweise auf Fehlkonfigurationen, unvollständige Automatisierung oder unerwartete Änderungen im Zertifikatsbestand liefern. Hierbei ist es sinnvoll nicht nur die Restlaufzeit mit Schwellwerten zu überwachen, sondern auch die tatsächliche Bereitstellung des neuen Zertifikates. Dazu können ein Monitoring der Zertifikatsdaten direkt am Webendpunkt, sowie Auswertungen aus Load-Balancern oder Reverse-Proxys gehören.

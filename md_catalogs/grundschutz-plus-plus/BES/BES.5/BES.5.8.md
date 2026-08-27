@@ -1,0 +1,9 @@
+# BES.5.8 - \[Auswahl von Produkten und Dienstleistungen - Zusammenarbeit\] Rechte für geistges Eigentum
+
+## Control Statement
+
+Beschaffungsmanagement für Dienstleistungen SOLLTE für geistiges Eigentum, das während der Vertragslaufzeit entwickelt wird, die Eigentumsrechte vereinbaren.
+
+## Control guidance
+
+Geistiges Eigentum meint hier alle während der Vertragslaufzeit entstehenden immateriellen Schutzgüter wie Softwarecode, Datenmodelle, Konzepte, technische Dokumentationen oder urheberrechtlich geschützte Inhalte, die im Rahmen der Dienstleistungserbringung entwickelt oder verbessert werden. Der Sinn und Zweck einer vertraglichen Regelung der Eigentumsrechte liegt darin, sicherzustellen, dass die Institution dauerhaft Kontrolle und Nutzungsrechte über Ergebnisse behält, die für ihren Betrieb oder ihre Weiterentwicklung relevant sind. Ohne klare Festlegung könnte es zu Konflikten kommen, wenn ein Dienstleister etwa nach Projektende die weitere Nutzung einer entwickelten Lösung untersagt oder hohe Lizenzgebühren verlangt; eine vertragliche Klarheit kann dagegen rechtliche Auseinandersetzungen und Abhängigkeiten verhindern. Eine Umsetzung kann über konkrete Vertragsklauseln erfolgen, die präzise definieren, welche Partei Eigentum oder Nutzungsrechte an entwickelten Ergebnissen erhält und ob bestimmte Elemente (z. B. Standardbibliotheken des Dienstleisters) ausgenommen sind. Dazu kann die Institution (1) standardisierte Vertragsvorlagen mit abgestuften Rechtemodellen nutzen, (2) ein internes Prüfschema für alle externen Verträge etablieren, das die Einbindung der Rechtsabteilung vorsieht, und (3) bei komplexen Entwicklungsleistungen technische Dokumentationspflichten verankern, damit Eigentums- und Nutzungsrechte nachvollziehbar abgesichert sind. Praktisch kann es helfen, im Vertrag eine Übergabepflicht sämtlicher Quelltexte, Dokumentationen oder Zugangsdaten vorzusehen und diese an definierte Projektmeilensteine zu koppeln.
