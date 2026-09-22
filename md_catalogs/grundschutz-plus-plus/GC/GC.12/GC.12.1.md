@@ -1,8 +1,14 @@
+---
+x-trestle-set-params:
+  gc.12.1-prm1:
+    values:
+---
+
 # GC.12.1 - \[Risiko\] Methodik für das Risikomanagement
 
 ## Control Statement
 
-Governance und Compliance MUSS eine einheitliche Methodik für das Informationssicherheitsrisikomanagement unter Berücksichtigungen von Kontext, Geschäftsprozessanalyse und interessierten Parteien verankern.
+Governance und Compliance MUSS {{ insert: param, gc.12.1-prm1 }} für das Informationssicherheitsrisikomanagement unter Berücksichtigungen von Kontext, Geschäftsprozessanalyse und interessierten Parteien verankern.
 
 ## Control guidance
 

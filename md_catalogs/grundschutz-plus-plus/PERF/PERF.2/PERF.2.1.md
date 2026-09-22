@@ -4,7 +4,7 @@ x-trestle-set-params:
     values:
 ---
 
-# PERF.2.1 - \[Compliance-Management\] Überwachung der Einhaltung von Verpflichtungen
+# PERF.2.1 - \[Compliance-Management\] Überprüfung der Einhaltung von Verpflichtungen
 
 ## Control Statement
 
