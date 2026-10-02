@@ -22,6 +22,8 @@ Navigate to the `md_catalogs` folder, then descend to the control of interest.
 
 ##### update catalog
 
+The BSI upstream catalog is watched daily by [`.github/workflows/upstream-catalog-watch.yml`](.github/workflows/upstream-catalog-watch.yml). When [`upstream.env`](upstream.env) points at a changed resolved catalog, automation opens or updates a PR to `develop` with the new `catalogs/grundschutz-plus-plus/catalog.json`. After merge, the develop push workflow regenerates `md_catalogs/`. Manual sync below remains a fallback; you can also run the workflow via **Actions → Upstream catalog watch → Run workflow**.
+
 <img src="drawio/update-catalog.drawio.png">
 
 Steps to modify the catalog repository with an updated catalog are given below:
