@@ -2,7 +2,7 @@
 
 ## Control Statement
 
-Sensibilisierung für Nutzende von Endgeräten KANN das Mitführen von Endgeräten in Sicherheitsbereichen untersagen.
+Sensibilisierung für Nutzende von Mobilen Endgeräten KANN das Mitführen von Endgeräten in Sicherheitsbereichen untersagen.
 
 ## Control guidance
 

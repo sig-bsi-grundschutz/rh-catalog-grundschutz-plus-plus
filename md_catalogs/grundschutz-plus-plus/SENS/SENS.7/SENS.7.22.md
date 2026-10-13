@@ -2,7 +2,7 @@
 
 ## Control Statement
 
-Sensibilisierung für Nutzende von Faxen SOLLTE gegen die Risiken der unauthentisierten und unverschlüsselten Faxnutzung sensibilisieren.
+Sensibilisierung für Nutzende von Faxanwendungen SOLLTE gegen die Risiken der unauthentisierten und unverschlüsselten Faxnutzung sensibilisieren.
 
 ## Control guidance
 

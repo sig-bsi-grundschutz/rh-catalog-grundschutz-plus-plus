@@ -2,7 +2,7 @@
 
 ## Control Statement
 
-Konfiguration für Endgeräte KANN den Zugriff vor dem Start des Betriebssystems authentifizieren.
+Konfiguration für Mobile Endgeräte KANN den Zugriff vor dem Start des Betriebssystems authentifizieren.
 
 ## Control guidance
 

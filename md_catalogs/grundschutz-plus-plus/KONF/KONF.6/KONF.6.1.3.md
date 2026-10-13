@@ -2,7 +2,7 @@
 
 ## Control Statement
 
-Konfiguration für Endgeräte KANN die Isolation verschiedener Arbeitsumgebungen für verschiedene Verwendungen aktivieren.
+Konfiguration für Mobile Endgeräte KANN die Isolation verschiedener Arbeitsumgebungen für verschiedene Verwendungen aktivieren.
 
 ## Control guidance
 

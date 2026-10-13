@@ -2,7 +2,7 @@
 
 ## Control Statement
 
-Konfiguration für Endgeräte KANN einen physischen Diebstahlschutz installieren.
+Konfiguration für Mobile Endgeräte KANN einen physischen Diebstahlschutz installieren.
 
 ## Control guidance
 

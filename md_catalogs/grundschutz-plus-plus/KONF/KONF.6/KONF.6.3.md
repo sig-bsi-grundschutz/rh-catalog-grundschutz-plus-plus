@@ -2,7 +2,7 @@
 
 ## Control Statement
 
-Konfiguration für Endgeräte KANN das automatische Zurücksetzen auf einen definierten Zustand nach der Nutzung aktivieren.
+Konfiguration für Mobile Endgeräte KANN das automatische Zurücksetzen auf einen definierten Zustand nach der Nutzung aktivieren.
 
 ## Control guidance
 

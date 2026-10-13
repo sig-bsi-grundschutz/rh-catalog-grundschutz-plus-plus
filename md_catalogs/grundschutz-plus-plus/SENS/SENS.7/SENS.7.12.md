@@ -2,7 +2,7 @@
 
 ## Control Statement
 
-Sensibilisierung für Nutzende von Endgeräten SOLLTE gegen die Risiken der Nutzung öffentlicher WLANs sensibilisieren.
+Sensibilisierung für Nutzende von Mobilen Endgeräten SOLLTE gegen die Risiken der Nutzung öffentlicher WLANs sensibilisieren.
 
 ## Control guidance
 

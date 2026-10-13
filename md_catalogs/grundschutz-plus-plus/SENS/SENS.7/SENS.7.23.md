@@ -2,7 +2,7 @@
 
 ## Control Statement
 
-Sensibilisierung für Nutzende von Endgeräten SOLLTE über Standortbestimmungsfunktionen von mobilen Endgeräten sensibilisieren.
+Sensibilisierung für Nutzende von Mobilen Endgeräten SOLLTE über Standortbestimmungsfunktionen von mobilen Endgeräten sensibilisieren.
 
 ## Control guidance
 

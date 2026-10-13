@@ -2,7 +2,7 @@
 
 ## Control Statement
 
-Gebäudemanagement für Datenträgerarchiv KANN Maßnahmen zum Schutz der Datenträger vor Staub und Schmutz verankern.
+Gebäudemanagement für Archiv KANN Maßnahmen zum Schutz der Datenträger vor Staub und Schmutz verankern.
 
 ## Control guidance
 

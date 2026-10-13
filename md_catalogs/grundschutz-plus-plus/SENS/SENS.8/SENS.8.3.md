@@ -2,7 +2,7 @@
 
 ## Control Statement
 
-Sensibilisierung für Nutzende von Endgeräten SOLLTE gegen Risiken der Nutzung von mobilen Endgeräten sensibilisieren.
+Sensibilisierung für Nutzende von Mobilen Endgeräten SOLLTE gegen Risiken der Nutzung von mobilen Endgeräten sensibilisieren.
 
 ## Control guidance
 

@@ -2,7 +2,7 @@
 
 ## Control Statement
 
-Sensibilisierung für Nutzende von Faxen SOLLTE gegen die Rechtsunsicherheit bei Empfang oder Versand von Faxen sensibilisieren.
+Sensibilisierung für Nutzende von Faxanwendungen SOLLTE gegen die Rechtsunsicherheit bei Empfang oder Versand von Faxen sensibilisieren.
 
 ## Control guidance
 

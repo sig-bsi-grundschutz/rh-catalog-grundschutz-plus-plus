@@ -8,7 +8,7 @@ x-trestle-set-params:
 
 ## Control Statement
 
-Gebäudemanagement für Datenträgerarchiv KANN für die Datenträger schonende Temperatur und Luftfeuchtigkeit anhand von {{ insert: param, geb.8.4-prm1 }} überwachen.
+Gebäudemanagement für Archiv KANN für die Datenträger schonende Temperatur und Luftfeuchtigkeit anhand von {{ insert: param, geb.8.4-prm1 }} überwachen.
 
 ## Control guidance
 

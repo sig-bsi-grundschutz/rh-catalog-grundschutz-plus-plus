@@ -2,7 +2,7 @@
 
 ## Control Statement
 
-Konfiguration für Anwendungen von Endgeräten KANN eine Zwischenspeicherung häufig verwendeter Daten aktivieren.
+Konfiguration für Anwendungen von Mobilen Endgeräten KANN eine Zwischenspeicherung häufig verwendeter Daten aktivieren.
 
 ## Control guidance
 

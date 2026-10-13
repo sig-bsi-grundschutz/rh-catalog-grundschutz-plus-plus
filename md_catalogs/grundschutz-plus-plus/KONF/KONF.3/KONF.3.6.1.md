@@ -8,7 +8,7 @@ x-trestle-set-params:
 
 ## Control Statement
 
-Konfiguration für Endgeräte KANN eine automatische Fernlöschung oder -sperre bei Inaktivität nach {{ insert: param, konf.3.6.1-prm1 }} aktivieren.
+Konfiguration für Mobile Endgeräte KANN eine automatische Fernlöschung oder -sperre bei Inaktivität nach {{ insert: param, konf.3.6.1-prm1 }} aktivieren.
 
 ## Control guidance
 

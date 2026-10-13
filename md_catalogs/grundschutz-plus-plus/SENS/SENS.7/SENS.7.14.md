@@ -2,7 +2,7 @@
 
 ## Control Statement
 
-Sensibilisierung für Nutzende von Endgeräten KANN die Nutzung unautorisierter WLANs untersagen.
+Sensibilisierung für Nutzende von Mobilen Endgeräten KANN die Nutzung unautorisierter WLANs untersagen.
 
 ## Control guidance
 

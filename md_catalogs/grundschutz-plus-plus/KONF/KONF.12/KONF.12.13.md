@@ -2,7 +2,7 @@
 
 ## Control Statement
 
-Konfiguration für Faxe SOLLTE einen Sendebericht protokollieren.
+Konfiguration für Faxanwendungen SOLLTE einen Sendebericht protokollieren.
 
 ## Control guidance
 

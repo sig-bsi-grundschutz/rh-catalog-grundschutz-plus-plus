@@ -2,7 +2,7 @@
 
 ## Control Statement
 
-Konfiguration für Endgeräte SOLLTE die Verwaltung durch ein Mobile Device Management (MDM) aktivieren.
+Konfiguration für Mobile Endgeräte SOLLTE die Verwaltung durch ein Mobile Device Management (MDM) aktivieren.
 
 ## Control guidance
 

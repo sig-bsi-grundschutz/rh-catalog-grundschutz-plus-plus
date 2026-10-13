@@ -2,7 +2,7 @@
 
 ## Control Statement
 
-Konfiguration für Endgeräte KANN eine Funktion zur Fernlöschung oder -sperre aktivieren.
+Konfiguration für Mobile Endgeräte KANN eine Funktion zur Fernlöschung oder -sperre aktivieren.
 
 ## Control guidance
 
